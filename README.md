@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kdevda24
 - 👀 I’m interested in everything related to technology.
 - 🌱 I’m currently learning python, HTML, CSS, Javascript, SQL, R programming.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...you can contact me by using kanishkd24@gmail.com
 
 <!---
