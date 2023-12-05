@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kdevda24
 - 👀 I’m interested in everything related to technology.
-- 🌱 I’m currently learning python, HTML, CSS, Javascript, SQL, R programming.
+- 🌱 My expertise lies in front-end and back-end development
+- Fluent in HTML, CSS, JavaScript, Python, Sass, NodeJS, React, MySQL, MongoDB, Java 
 - 📫 How to reach me ...you can contact me by using kanishkd24@gmail.com
 
 <!---
